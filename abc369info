@@ -10,5 +10,11 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+{
+        "device_id": "657bad9e142a54b5",
+        "key": "HunterXSushil#1",
+        "expirydate": "31-12-2026",
+        "Allowoffline": false
     }
 ]
