@@ -18,7 +18,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "1944795E2C357E4A",
+        "device_id": "1944795e2c357e4a",
         "key": "HunterXAlfaiz#OnTop",
         "expirydate": "05-02-2026",
         "Allowoffline": false
@@ -26,6 +26,12 @@
 {
         "device_id": "2f80332f3dd7e784",
         "key": "HunterXBunny#OnTop",
+        "expirydate": "05-02-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "1d4c893a27b9cfb3",
+        "key": "HunterXJaypal#OnTop",
         "expirydate": "05-02-2026",
         "Allowoffline": false
     }
