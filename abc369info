@@ -32,7 +32,13 @@
 {
         "device_id": "1d4c893a27b9cfb3",
         "key": "HunterXJaypal#OnTop",
-        "expirydate": "05-02-2026",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "8cbfb3d9796d4d99",
+        "key": "HunterXUmang#OnTop",
+        "expirydate": "06-02-2026",
         "Allowoffline": false
     }
 ]
