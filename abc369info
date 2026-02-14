@@ -221,5 +221,11 @@
         "key": "HunterXPrime#OnTop#3bde66b186ff3a7e#7123450614",
         "expirydate": "01-03-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "0f351905e9032c56",
+        "key": "HunterXYash#OnTop#0f351905e9032c56#6870642430",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
     }
 ]
