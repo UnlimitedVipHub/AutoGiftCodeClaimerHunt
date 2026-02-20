@@ -286,5 +286,11 @@
         "key": "HunterXRaju#OnTop#c07675443ef7667c#8232558510",
         "expirydate": "01-03-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "6c4ed9cb132ffc35",
+        "key": "HunterXGambler#OnTop#6c4ed9cb132ffc35#7770091576",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
     }
 ]
