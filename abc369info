@@ -36,18 +36,6 @@
         "Allowoffline": false
     },
 {
-        "device_id": "c619be41777893e7",
-        "key": "HunterXMahesh#OnTop#c619be41777893e7#6557837929",
-        "expirydate": "01-03-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "604aaaf31521c90f",
-        "key": "HunterXZerox#OnTop#604aaaf31521c90f#7324104029",
-        "expirydate": "01-03-2026",
-        "Allowoffline": false
-    },
-{
         "device_id": "584ee757607c2403",
         "key": "HunterXPreet#OnTop#584ee757607c2403#7952550975",
         "expirydate": "01-03-2026",
@@ -98,12 +86,6 @@
 {
         "device_id": "c6c98365f998623c",
         "key": "HunterXLarx#OnTop#c6c98365f998623c#6567129202",
-        "expirydate": "01-03-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "ec4887697cf811c3",
-        "key": "HunterXNirlay#OnTop#ec4887697cf811c3#8088457443",
         "expirydate": "01-03-2026",
         "Allowoffline": false
     },
