@@ -652,5 +652,11 @@
         "key": "HunterXLucky#OnTop#d7c53badd6dca345#6978500226",
         "expirydate": "06-03-2026",
         "Allowoffline": false
-    }
+    },
+{
+    "device_id": "*",
+    "key": "HX-D140-766D-C591",
+    "expirydate": "06-03-2026",
+    "Allowoffline": false
+}
 ]
