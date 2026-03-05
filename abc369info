@@ -658,5 +658,11 @@
         "key": "HunterXArfat#OnTop#65d8512fbacfa6f8#7623403934",
         "expirydate": "06-03-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "3136a28a37d4c6cf",
+        "key": "HunterXVIP#OnTop#3136a28a37d4c6cf#8492299538",
+        "expirydate": "06-03-2026",
+        "Allowoffline": false
     }
 ]
