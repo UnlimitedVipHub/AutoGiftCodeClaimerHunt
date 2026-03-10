@@ -30,12 +30,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "604aaaf31521c90f",
-        "key": "HunterXZerox#OnTop#604aaaf31521c90f#7324104029",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "584ee757607c2403",
         "key": "HunterXPreet#OnTop#584ee757607c2403#7952550975",
         "expirydate": "01-04-2026",
@@ -50,18 +44,6 @@
     {
         "device_id": "f8740ccbe35167a6",
         "key": "HunterXPrince#OnTop#f8740ccbe35167a6#8288789627",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b1fbc2fa9db48f6b",
-        "key": "HunterXRexxi#OnTop#b1fbc2fa9db48f6b#6632018593",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0789b0435f38f4cc",
-        "key": "HunterXRexxi#OnTop#0789b0435f38f4cc#6632018593",
         "expirydate": "01-04-2026",
         "Allowoffline": false
     },
@@ -272,12 +254,6 @@
     {
         "device_id": "c07675443ef7667c",
         "key": "HunterXRaju#OnTop#c07675443ef7667c#8232558510",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "6c4ed9cb132ffc35",
-        "key": "HunterXGambler#OnTop#6c4ed9cb132ffc35#7770091576",
         "expirydate": "01-04-2026",
         "Allowoffline": false
     },
