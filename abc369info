@@ -640,5 +640,17 @@
         "key": "free",
         "expirydate": "06-04-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "Name",
+        "key": "@SikariBhai",
+        "expirydate": "06-04-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "AdminUrl",
+        "key": "t.me/HunterXSushill",
+        "expirydate": "06-04-2026",
+        "Allowoffline": false
     }
 ]
