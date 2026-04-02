@@ -649,7 +649,7 @@
     },
 {
         "device_id": "AdminUrl",
-        "key": "t.me/HunterXSushill",
+        "key": "https://t.me/HunterXSushill",
         "expirydate": "06-04-2026",
         "Allowoffline": false
     }
