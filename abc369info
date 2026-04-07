@@ -742,5 +742,9 @@
         "key": "@HunterXSushil#OnTop#0054a3a81ba70600#71",
         "expirydate": "08-04-2026",
         "Allowoffline": false
-    }
+    },
+{
+    "device_id": "database",
+    "key": "https://xyzhrjjh-default-rtdb.firebaseio.com"
+  }
 ]
