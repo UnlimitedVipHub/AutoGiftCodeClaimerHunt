@@ -564,9 +564,9 @@
         "Allowoffline": false
     },
 {
-        "device_id": "Common Buttons",
-        "key": "everyone",
-        "expirydate": "27-04-2026",
-        "Allowoffline": false
-    }
+  "AllowDevice": "",
+  "BlockedDevice": "",
+  "Common Buttons": "everyone",
+  "Show button": ""
+}
 ]
