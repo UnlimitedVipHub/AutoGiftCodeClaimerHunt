@@ -563,7 +563,6 @@
         "expirydate": "27-04-2026",
         "Allowoffline": false
     },
-[
   {
     "device_id": "AllowDevice",
     "key": "everyone",
@@ -618,5 +617,4 @@
     "expirydate": "31-12-2099",
     "Allowoffline": true
   }
-]
 ]
