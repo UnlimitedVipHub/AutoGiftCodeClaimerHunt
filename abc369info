@@ -552,12 +552,6 @@
         "Allowoffline": false
     },
 {
-        "device_id": "Common Buttons",
-        "key": "everyone",
-        "expirydate": "26-04-2026",
-        "Allowoffline": false
-    },
-{
         "device_id": "Show button",
         "key": "657bad9e142a54b5",
         "expirydate": "26-04-2026",
