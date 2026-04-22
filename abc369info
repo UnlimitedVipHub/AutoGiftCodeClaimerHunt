@@ -563,10 +563,60 @@
         "expirydate": "27-04-2026",
         "Allowoffline": false
     },
-{
-  "AllowDevice": "",
-  "BlockedDevice": "",
-  "Common Buttons": "657bad9e142a54b5",
-  "Show button": ""
-}
+[
+  {
+    "device_id": "AllowDevice",
+    "key": "everyone",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Show button",
+    "key": "657bad9e142a54b5",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Common Buttons",
+    "key": "everyone",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Game Opening",
+    "key": "on",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Name",
+    "key": "Hunter-X Sushil",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "AdminUrl",
+    "key": "https://t.me/HunterXSushil",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "tg",
+    "key": "https://t.me/HunterXSushil",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "yt",
+    "key": "https://youtube.com/@HunterXSushil",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "key": "HUNTER369",
+    "device_id": "abc123deviceid",
+    "expirydate": "31-12-2099",
+    "Allowoffline": true
+  }
+]
 ]
