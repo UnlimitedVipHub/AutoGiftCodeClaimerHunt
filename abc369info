@@ -571,7 +571,7 @@
   },
   {
     "device_id": "Show button",
-    "key": "657bad9e142a54b5",
+    "key": "657bad9e142a54b5,7b15852d48ce686b",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
@@ -582,14 +582,8 @@
     "Allowoffline": false
   },
   {
-    "device_id": "Game Opening",
-    "key": "on",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
     "device_id": "Name",
-    "key": "Hunter-X Sushil",
+    "key": "@HunterXSushil",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
@@ -601,13 +595,13 @@
   },
   {
     "device_id": "tg",
-    "key": "https://t.me/HunterXSushil",
+    "key": "https://t.me/HunterLooteraOnTop",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
   {
     "device_id": "yt",
-    "key": "https://youtube.com/@HunterXSushil",
+    "key": "https://www.youtube.com/@SecretStation369",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
