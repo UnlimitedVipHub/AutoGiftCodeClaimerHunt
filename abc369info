@@ -577,7 +577,7 @@
   },
   {
     "device_id": "Common Buttons",
-    "key": "everyone",
+    "key": "",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
