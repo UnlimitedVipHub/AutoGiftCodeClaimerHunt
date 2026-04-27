@@ -628,5 +628,9 @@
         "key": "@HunterXSushil#OnTop#7054ef9a88345e42#91",
         "expirydate": "28-04-2026",
         "Allowoffline": false
-    }
+    },
+{
+    "device_id": "show activation dialog",
+    "key": "none"
+  }
 ]
