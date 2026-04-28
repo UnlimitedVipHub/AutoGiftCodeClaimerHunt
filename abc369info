@@ -571,7 +571,7 @@
   },
   {
     "device_id": "Show button",
-    "key": "everyone",
+    "key": "",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
@@ -634,11 +634,5 @@
         "key": "@HunterXSushil#OnTop#a74d2ca5fb533b68#92",
         "expirydate": "28-04-2027",
         "Allowoffline": false
-    },
-{
-    "device_id": "show activation dialog",
-    "key": "none",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  }
+    }
 ]
