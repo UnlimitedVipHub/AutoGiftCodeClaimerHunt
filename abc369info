@@ -348,18 +348,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "AdminUrl",
-        "key": "https://t.me/HunterXSushill",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "Sayari",
-        "key": "Congratulations \ud83d\ude08\ud83d\ude08\ud83d\ude08",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "53a1463a0c67327f",
         "key": "@HunterXSushil#OnTop#53a1463a0c67327f#55",
         "expirydate": "13-04-2026",
@@ -652,5 +640,11 @@
     "key": "YOUR_LICENSE_KEY_HERE",
     "expirydate": "31-12-2025",
     "Allowoffline": false
-  }
+  },
+{
+    "device_id": "bu",
+    "key": "W2SPP6yRP7Ozg4a28315jmtkIcok6XtJ+hG6IkkeYrk37BaRg1O1fPfa61g/MbYTr+DhQAc1rga/h13sKaAEWAdfkuF64wofnvK63ZFxaR6ttYpAIzJF3UaX2MbMIn5weWjDDQiBzfPnUoXV+XA1nzFlyh6vpEs+QzhVTNgtHw1cMDKy+QIb0Q==",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+}
 ]
