@@ -563,54 +563,6 @@
         "expirydate": "27-04-2026",
         "Allowoffline": false
     },
-  {
-    "device_id": "AllowDevice",
-    "key": "everyone",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Show button",
-    "key": "",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Common Buttons",
-    "key": "everyone",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Name",
-    "key": "@HunterXSushil",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "AdminUrl",
-    "key": "https://t.me/HunterXSushil",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "tg",
-    "key": "https://t.me/HunterLooteraOnTop",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "yt",
-    "key": "https://www.youtube.com/@SecretStation369",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "key": "HUNTER369",
-    "device_id": "abc123deviceid",
-    "expirydate": "31-12-2099",
-    "Allowoffline": true
-  },
 {
         "device_id": "90a540f42428e4dd",
         "key": "@HunterXSushil#OnTop#90a540f42428e4dd#89",
@@ -634,5 +586,71 @@
         "key": "@HunterXSushil#OnTop#a74d2ca5fb533b68#92",
         "expirydate": "28-04-2027",
         "Allowoffline": false
-    }
+    },
+  {
+    "device_id": "AdminUrl",
+    "key": "https://t.me/YourTelegramUsername",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Name",
+    "key": "HUNTER-X SUSHIL",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "tg",
+    "key": "https://t.me/YourChannel",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "yt",
+    "key": "https://youtube.com/YourChannel",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "show activation dialog",
+    "key": "none",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Show button",
+    "key": "",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "AllowDevice",
+    "key": "everyone",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Common Buttons",
+    "key": "",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Sayari",
+    "key": "Yeh duniya jhukti hai, jhukane wala chahiye!",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "Sayari2",
+    "key": "Dushman bhi salaam karta hai kamiyab insaan ko!",
+    "expirydate": "31-12-2099",
+    "Allowoffline": false
+  },
+  {
+    "device_id": "ACTUAL_DEVICE_ID_HERE",
+    "key": "YOUR_LICENSE_KEY_HERE",
+    "expirydate": "31-12-2025",
+    "Allowoffline": false
+  }
 ]
