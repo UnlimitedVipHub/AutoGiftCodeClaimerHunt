@@ -607,7 +607,7 @@
   },
   {
     "device_id": "Show button",
-    "key": "",
+    "key": "everyone",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
@@ -619,7 +619,7 @@
   },
   {
     "device_id": "Common Buttons",
-    "key": "",
+    "key": "everyone",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
