@@ -572,7 +572,13 @@
 {
         "device_id": "a74d2ca5fb533b68",
         "key": "@HunterXSushil#OnTop#a74d2ca5fb533b68#92",
-        "expirydate": "28-04-2027",
+        "expirydate": "01-07-2027",
+        "Allowoffline": false
+    },
+{
+        "device_id": "6f6660e74b6b4f71",
+        "key": "@HunterXSushil#OnTop#6f6660e74b6b4f71#93",
+        "expirydate": "01-07-2025",
         "Allowoffline": false
     },
   {
@@ -607,7 +613,7 @@
   },
   {
     "device_id": "Show button",
-    "key": "",
+    "key": "everyone",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
