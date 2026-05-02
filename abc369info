@@ -607,13 +607,13 @@
   },
   {
     "device_id": "show activation dialog",
-    "key": "everyone",
+    "key": "none",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
   {
     "device_id": "Show button",
-    "key": "",
+    "key": "everyone",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
