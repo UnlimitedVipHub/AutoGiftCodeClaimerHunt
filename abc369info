@@ -589,7 +589,7 @@
     },
   {
     "device_id": "AdminUrl",
-    "key": "t.me/HunterXSushil",
+    "key": "https://t.me/HunterXSushil",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
@@ -601,7 +601,7 @@
   },
   {
     "device_id": "tg",
-    "key": "t.me/HunterLooteraOnTop",
+    "key": "https://t.me/HunterLooteraOnTop",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
