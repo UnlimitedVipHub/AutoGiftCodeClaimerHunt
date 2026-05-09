@@ -649,7 +649,7 @@
   },
   {
     "device_id": "Show button",
-    "key": "everyone",
+    "key": "",
     "expirydate": "31-12-2099",
     "Allowoffline": false
   },
