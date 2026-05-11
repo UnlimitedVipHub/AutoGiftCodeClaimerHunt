@@ -1,23 +1,11 @@
 [
     {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "657bad9e142a54b5",
         "key": "HunterXSushil#1",
         "expirydate": "01-12-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "0c611f44d0c41212",
         "key": "HunterXSushil#1",
         "expirydate": "01-12-2026",
@@ -42,42 +30,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "0f9f4759f10e9769",
-        "key": "@HunterXSushil#OnTop#0f9f4759f10e9769",
-        "expirydate": "31-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7db77c0145817042",
-        "key": "@HunterXSushil#OnTop#7db77c0145817042",
-        "expirydate": "31-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "1d4c893a27b9cfb3",
-        "key": "@HunterXSuhil#OnTop#1d4c893a27b9cfb3",
-        "expirydate": "14-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "52f93c7dd7d3ebbb",
-        "key": "@HunterXSuhil#OnTop#52f93c7dd7d3ebbb",
-        "expirydate": "14-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7118503e16ea3e27",
-        "key": "@HunterXSushil#OnTop#7118503e16ea3e27",
-        "expirydate": "25-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "768bceecf1b33b8e",
-        "key": "@HunterXSushil#OnTop#768bceecf1b33b8e",
-        "expirydate": "01-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "9249c476366b2e70",
         "key": "@HunterXSushil#OnTop#9249c476366b2e70#1",
         "expirydate": "18-05-2026",
@@ -90,45 +42,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "d3a541652834b4d4",
-        "key": "@HunterXSushil#OnTop#d3a541652834b4d4#3",
-        "expirydate": "21-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "5d8fa75840a5f4b0",
-        "key": "@HunterXSushil#OnTop#5d8fa75840a5f4b0#4",
-        "expirydate": "26-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "cf758fba0e0c3f4f",
-        "key": "@HunterXSuhil#OnTop#cf758fba0e0c3f4f#5",
-        "expirydate": "04-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "1acc2c50ad5d0fc2",
-        "key": "@HunterXSuhil#OnTop#1acc2c50ad5d0fc2#7",
-        "expirydate": "20-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7b3a27941bd38067",
-        "key": "@HunterXSushil#OnTop#7b3a27941bd38067#8",
-        "expirydate": "17-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a02c194965ed4bb7",
         "key": "@HunterXSushil#OnTop#a02c194965ed4bb7#9",
         "expirydate": "15-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "85028b9e7e68ba2c",
-        "key": "@HunterXSushil#OnTop#85028b9e7e68ba2c#10",
-        "expirydate": "16-04-2026",
         "Allowoffline": false
     },
     {
@@ -144,57 +60,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5a0e450f5125d828",
-        "key": "@HunterXSuhil#OnTop#5a0e450f5125d828#15",
-        "expirydate": "19-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "575a9f0d5269fa61",
-        "key": "@HunterXSuhil#OnTop#575a9f0d5269fa61#18",
-        "expirydate": "24-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "d6843a08cbd3d7bd",
         "key": "@HunterXSushil#OnTop#d6843a08cbd3d7bd#19",
         "expirydate": "10-06-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "c07675443ef7667c",
-        "key": "@HunterXSushil#OnTop#c07675443ef7667c#22",
-        "expirydate": "02-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "dca3bd5aac7cae4a",
-        "key": "@HunterXSushil#OnTop#dca3bd5aac7cae4a#24",
-        "expirydate": "03-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "8802c01cf6d5bad3",
-        "key": "@HunterXSushil#OnTop#8802c01cf6d5bad3#25",
-        "expirydate": "11-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ec8c09c1ebbac43c",
-        "key": "@HunterXSushil#OnTop#ec8c09c1ebbac43c#26",
-        "expirydate": "19-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "ded9fc8f2bc6dadc",
         "key": "@HunterXSushil#OnTop#ded9fc8f2bc6dadc#27",
         "expirydate": "06-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "03c159dec5ac0c42",
-        "key": "@HunterXSushil#OnTop#03c159dec5ac0c42#28",
-        "expirydate": "26-04-2026",
         "Allowoffline": false
     },
     {
@@ -210,12 +84,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "4dfd9c722a233c44",
-        "key": "@HunterXSushil#OnTop#4dfd9c722a233c44#31",
-        "expirydate": "09-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a1a718d1aee9f780",
         "key": "@HunterXSushil#OnTop#a1a718d1aee9f780#32",
         "expirydate": "15-05-2026",
@@ -225,24 +93,6 @@
         "device_id": "f40114aa61bc8cb2",
         "key": "@HunterXSushil#OnTop#f40114aa61bc8cb2#33",
         "expirydate": "10-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d771d5662a6e22dc",
-        "key": "@HunterXSushil#OnTop#d771d5662a6e22dc#34",
-        "expirydate": "04-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "66c335b7dc4a2c75",
-        "key": "@HunterXSushil#OnTop#66c335b7dc4a2c75#35",
-        "expirydate": "14-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "41f5caf4e170ba10",
-        "key": "@HunterXSushil#OnTop#41f5caf4e170ba10#36",
-        "expirydate": "05-04-2026",
         "Allowoffline": false
     },
     {
@@ -258,12 +108,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "2b40f2cab26b55d1",
-        "key": "@HunterXSuhil#OnTop#2b40f2cab26b55d1#40",
-        "expirydate": "11-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "3a65800e27a7e4c5",
         "key": "@HunterXSuhil#OnTop#3a65800e27a7e4c5#42#trial",
         "expirydate": "15-05-2026",
@@ -273,12 +117,6 @@
         "device_id": "032ee6d3e2a0e5d4",
         "key": "@HunterXSushil#OnTop#032ee6d3e2a0e5d4#43",
         "expirydate": "07-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ffead5473d567ae6",
-        "key": "@HunterXSushil#OnTop#ffead5473d567ae6#44",
-        "expirydate": "19-04-2026",
         "Allowoffline": false
     },
     {
@@ -300,12 +138,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5b97296c67e0045c",
-        "key": "@HunterXSushil#OnTop#5b97296c67e0045c#48",
-        "expirydate": "27-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "e0593a1c9717d8bb",
         "key": "@HunterXSushil#OnTop#e0593a1c9717d8bb#49",
         "expirydate": "15-05-2026",
@@ -324,81 +156,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "271241a4d21b2b9a",
-        "key": "@HunterXSushil#OnTop#271241a4d21b2b9a#52",
-        "expirydate": "08-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "08e807c544771823",
-        "key": "@HunterXSushil#OnTop#08e807c544771823#53",
-        "expirydate": "04-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "bd45fd03a9e108b4",
-        "key": "@HunterXSushil#OnTop#bd45fd03a9e108b4#54",
-        "expirydate": "20-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "Everyone",
         "key": "free",
         "expirydate": "15-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "53a1463a0c67327f",
-        "key": "@HunterXSushil#OnTop#53a1463a0c67327f#55",
-        "expirydate": "13-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "6bcc7ff973dd8305",
-        "key": "@HunterXSushil#OnTop#6bcc7ff973dd8305#56",
-        "expirydate": "03-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "596f6f727c383ccd",
-        "key": "@HunterXSushil#OnTop#596f6f727c383ccd#57",
-        "expirydate": "03-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "fa96073293935a64",
-        "key": "@HunterXSushil#OnTop#fa96073293935a64#58",
-        "expirydate": "05-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7d11210fa65e8ec4",
-        "key": "@HunterXSushil#OnTop#7d11210fa65e8ec4#59",
-        "expirydate": "05-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "64f3b060e3b7a7ba",
-        "key": "@HunterXSushil#OnTop#64f3b060e3b7a7ba#60",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9348b2e85ab7734e",
-        "key": "@HunterXSushil#OnTop#9348b2e85ab7734e#61",
-        "expirydate": "06-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "85028b9e7e68ba2c",
-        "key": "@HunterXSushil#OnTop#85028b9e7e68ba2c#62",
-        "expirydate": "17-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "7e1d03e5b18e98c0",
-        "key": "@HunterXSushil#OnTop#7e1d03e5b18e98c0#63",
-        "expirydate": "07-04-2026",
         "Allowoffline": false
     },
     {
@@ -408,93 +168,15 @@
         "Allowoffline": false
     },
     {
-        "device_id": "a4ccc2b3dd619a85",
-        "key": "@HunterXSushil#OnTop#a4ccc2b3dd619a85#65",
-        "expirydate": "10-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9c213a23b589e44d",
-        "key": "@HunterXSushil#OnTop#9c213a23b589e44d#66",
-        "expirydate": "05-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "4b6719e42c2dab77",
-        "key": "@HunterXSushil#OnTop#4b6719e42c2dab77#67",
-        "expirydate": "09-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "d9549fb592cd3feb",
-        "key": "@HunterXSushil#OnTop#d9549fb592cd3feb#69",
-        "expirydate": "16-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b99bec311a512d0e",
-        "key": "@HunterXSushil#OnTop#b99bec311a512d0e#70",
-        "expirydate": "09-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0054a3a81ba70600",
-        "key": "@HunterXSushil#OnTop#0054a3a81ba70600#71",
-        "expirydate": "08-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "2f80332f3dd7e784",
-        "key": "@HunterXSushil#OnTop#2f80332f3dd7e784#72",
-        "expirydate": "10-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3f20dc29afc09321",
-        "key": "@HunterXSushil#OnTop#3f20dc29afc09321#73",
-        "expirydate": "18-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "c3eaff6ba9f06bb1",
         "key": "@HunterXSushil#OnTop#c3eaff6ba9f06bb1#74",
         "expirydate": "05-05-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "f06773aae0e358bd",
-        "key": "@HunterXSushil#OnTop#f06773aae0e358bd#75",
-        "expirydate": "13-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "a4ccc2b3dd619a85",
-        "key": "@HunterXSushil#OnTop#a4ccc2b3dd619a85#76",
-        "expirydate": "14-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "2a2dc81f679674f6",
-        "key": "@HunterXSushil#OnTop#2a2dc81f679674f6#77",
-        "expirydate": "12-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "5f34503bbe3c2235",
         "key": "@HunterXSushil#OnTop#5f34503bbe3c2235#78",
         "expirydate": "11-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "b11f44d4d6b00c89",
-        "key": "@HunterXSushil#OnTop#b11f44d4d6b00c89#79",
-        "expirydate": "17-04-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "3c06359381fb9a6f",
-        "key": "@HunterXSushil#OnTop#3c06359381fb9a6f#80",
-        "expirydate": "15-04-2026",
         "Allowoffline": false
     },
     {
@@ -510,195 +192,135 @@
         "Allowoffline": false
     },
     {
-        "device_id": "17e2cfba6321fb1c",
-        "key": "@HunterXSushil#OnTop#17e2cfba6321fb1c#83",
-        "expirydate": "20-04-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "abd37e10b11b1ad9",
         "key": "@HunterXSushil#OnTop#abd37e10b11b1ad9#84",
         "expirydate": "12-05-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "e07d9db6160ab9bd",
-        "key": "@HunterXSushil#OnTop#e07d9db6160ab9bd#85",
-        "expirydate": "21-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "a2cfbf8d74972c35",
-        "key": "@HunterXSushil#OnTop#a2cfbf8d74972c35#86",
-        "expirydate": "31-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "d4af5e5070fe18e5",
-        "key": "@HunterXSushil#OnTop#d4af5e5070fe18e5#87",
-        "expirydate": "26-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "6c15539e6e9ebe1d",
-        "key": "@HunterXSushil#OnTop#6c15539e6e9ebe1d#88",
-        "expirydate": "27-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "6c15539e6e9ebe1d",
-        "key": "@HunterXSushil#OnTop#6c15539e6e9ebe1d#88",
-        "expirydate": "27-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "90a540f42428e4dd",
-        "key": "@HunterXSushil#OnTop#90a540f42428e4dd#89",
-        "expirydate": "26-04-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "70ae54fade6abc04",
-        "key": "@HunterXSushil#OnTop#70ae54fade6abc04#90",
-        "expirydate": "26-04-2026",
-        "Allowoffline": false
-    },
-{
         "device_id": "7054ef9a88345e42",
         "key": "@HunterXSushil#OnTop#7054ef9a88345e42#91",
         "expirydate": "07-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "a74d2ca5fb533b68",
         "key": "@HunterXSushil#OnTop#a74d2ca5fb533b68#92",
         "expirydate": "01-07-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "6f6660e74b6b4f71",
         "key": "@HunterXSushil#OnTop#6f6660e74b6b4f71#93",
         "expirydate": "01-07-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "875c78ea24b9cefd",
         "key": "@HunterXSushil#OnTop#875c78ea24b9cefd#94",
         "expirydate": "20-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "a0284269b634f8e8",
         "key": "@HunterXSushil#OnTop#a0284269b634f8e8#95",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "40e202d385174425",
         "key": "@HunterXSushil#OnTop#40e202d385174425#96",
         "expirydate": "07-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "3bc443aa010fa8dc",
         "key": "@HunterXSushil#OnTop#3bc443aa010fa8dc#97",
         "expirydate": "12-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "69348019cd63ebf9",
         "key": "@HunterXSushil#OnTop#69348019cd63ebf9#98",
         "expirydate": "13-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "9a6ec3c8400e1916",
         "key": "@HunterXSushil#OnTop#9a6ec3c8400e1916#99",
         "expirydate": "12-05-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "596f6f727c383ccd",
         "key": "@HunterXSushil#OnTop#596f6f727c383ccd#100",
         "expirydate": "12-06-2026",
         "Allowoffline": false
     },
-{
+    {
         "device_id": "4bc505ce3889f342",
         "key": "@HunterXSushil#OnTop#4bc505ce3889f342#101",
         "expirydate": "15-06-2026",
         "Allowoffline": false
     },
-  {
-    "device_id": "AdminUrl",
-    "key": "https://t.me/HunterXSushill",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Name",
-    "key": "@HunterXSushill",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "tg",
-    "key": "https://t.me/HunterLooteraOnTop",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "yt",
-    "key": "https://www.youtube.com/@SecretStation369",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "show activation dialog",
-    "key": "none",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Show button",
-    "key": "everyone",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "AllowDevice",
-    "key": "everyone",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Common Buttons",
-    "key": "everyone",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Sayari",
-    "key": "Girls Is Beautiful But Money Is Powerful!",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "Sayari2",
-    "key": "Lalach Mat Karo!",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-  },
-  {
-    "device_id": "ACTUAL_DEVICE_ID_HERE",
-    "key": "YOUR_LICENSE_KEY_HERE",
-    "expirydate": "31-12-2025",
-    "Allowoffline": false
-  },
-{
-    "device_id": "bu",
-    "key": "VKG4Bj/G/rJyoC7yDoeA6nrLvv+xnJX0Kry1IKJQVgN8+kkRwhlIZiuHwFSVPqHHqyLE0Y/M2gcXQf8sNZiasxCR5KbKgsGh3FnB0v4bfvSvJAZOlJQdw+P9xdb1Pv7/eHlA/tYEMD6y",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-}
+    {
+        "device_id": "AdminUrl",
+        "key": "https://t.me/HunterXSushill",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Name",
+        "key": "@HunterXSushill",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "tg",
+        "key": "https://t.me/HunterLooteraOnTop",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "yt",
+        "key": "https://www.youtube.com/@SecretStation369",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "show activation dialog",
+        "key": "none",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Show button",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "AllowDevice",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Common Buttons",
+        "key": "everyone",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari",
+        "key": "Girls Is Beautiful But Money Is Powerful!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "Sayari2",
+        "key": "Lalach Mat Karo!",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
 ]
