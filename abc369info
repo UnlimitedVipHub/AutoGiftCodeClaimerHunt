@@ -6,12 +6,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "0c611f44d0c41212",
-        "key": "HunterXSushil#1",
-        "expirydate": "01-12-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "f2b44acc2a0e7b6b",
         "key": "@HunterXSushil#OnTop#f2b44acc2a0e7b6b",
         "expirydate": "15-05-2026",
@@ -36,27 +30,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "47c49bceddf2f13c",
-        "key": "@HunterXSuhil#OnTop#47c49bceddf2f13c#2",
-        "expirydate": "16-05-2026",
-        "Allowoffline": false
-    },
-{
-        "device_id": "show activation dialog",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a02c194965ed4bb7",
         "key": "@HunterXSushil#OnTop#a02c194965ed4bb7#9",
         "expirydate": "15-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "41a3aead22f12664",
-        "key": "@HunterXSushil#OnTop#41a3aead22f12664#12",
-        "expirydate": "12-05-2026",
         "Allowoffline": false
     },
     {
@@ -68,25 +44,13 @@
     {
         "device_id": "d6843a08cbd3d7bd",
         "key": "@HunterXSushil#OnTop#d6843a08cbd3d7bd#19",
-        "expirydate": "22-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "ded9fc8f2bc6dadc",
-        "key": "@HunterXSushil#OnTop#ded9fc8f2bc6dadc#27",
-        "expirydate": "06-05-2026",
+        "expirydate": "22-05-2026",
         "Allowoffline": false
     },
     {
         "device_id": "0f351905e9032c56",
         "key": "@HunterXSushil#OnTop#0f351905e9032c56#29",
         "expirydate": "18-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "6e035aa6c52662ff",
-        "key": "@HunterXSushil#OnTop#6e035aa6c52662ff#30",
-        "expirydate": "31-12-2026",
         "Allowoffline": false
     },
     {
@@ -108,12 +72,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "5a94b1eb81f8429b",
-        "key": "@HunterXSushil#OnTop#5a94b1eb81f8429b#39",
-        "expirydate": "05-05-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "3a65800e27a7e4c5",
         "key": "@HunterXSuhil#OnTop#3a65800e27a7e4c5#42#trial",
         "expirydate": "15-05-2026",
@@ -132,21 +90,9 @@
         "Allowoffline": false
     },
     {
-        "device_id": "7054ef9a88345e42",
-        "key": "@HunterXSushil#OnTop#7054ef9a88345e42#46",
-        "expirydate": "15-05-2026",
-        "Allowoffline": false
-    },
-    {
         "device_id": "1422ee6769d1a20b",
         "key": "@HunterXSushil#OnTop#1422ee6769d1a20b#47",
         "expirydate": "16-05-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "e0593a1c9717d8bb",
-        "key": "@HunterXSushil#OnTop#e0593a1c9717d8bb#49",
-        "expirydate": "15-05-2026",
         "Allowoffline": false
     },
     {
@@ -279,6 +225,12 @@
         "device_id": "7b3a27941bd38067",
         "key": "@HunterXSushil#OnTop#7b3a27941bd38067#103",
         "expirydate": "13-06-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "show activation dialog",
+        "key": "none",
+        "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
