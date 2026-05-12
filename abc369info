@@ -41,6 +41,12 @@
         "expirydate": "16-05-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "show activation dialog",
+        "key": "none",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
     {
         "device_id": "a02c194965ed4bb7",
         "key": "@HunterXSushil#OnTop#a02c194965ed4bb7#9",
@@ -296,12 +302,6 @@
     {
         "device_id": "yt",
         "key": "https://www.youtube.com/@SecretStation369",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog",
-        "key": "none",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
