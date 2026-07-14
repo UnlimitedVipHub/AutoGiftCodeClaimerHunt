@@ -526,5 +526,11 @@
     "key": "91 Club:https://jaipur91.com/#/login,55 Club:https://ayhbaw55.com/#/login",
     "expirydate": "31-12-2099",
     "Allowoffline": false
+},
+{
+  "device_id": "bu",
+  "key": "p1w0LSOYFqy1K4u7RgotgetsVJ1r5Hqi2k4C6WX6EsdHwhOXlSopTb+urx8wP+dg6l9IknQlUcVivAc90SGDHdnLiODIgJN0k8szTivQLGKf8XzSakYZtG5SpsDxt8iip1YSxNTPo5dVM/6wJUTx",
+  "expirydate": "31-12-2099",
+  "Allowoffline": false
 }
 ]
