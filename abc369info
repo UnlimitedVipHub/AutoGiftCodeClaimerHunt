@@ -463,7 +463,7 @@
     },
 {
         "device_id": "Everyone",
-        "key": "",
+        "key": "0123",
         "expirydate": "15-05-2026",
         "Allowoffline": false
     },
@@ -521,16 +521,22 @@
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
-{
-    "device_id": "Url",
-    "key": "91 Club:https://jaipur91.com/#/login,55 Club:https://ayhbaw55.com/#/login",
-    "expirydate": "31-12-2099",
-    "Allowoffline": false
-},
-{
-  "device_id": "bu",
-  "key": "p1w0LSOYFqy1K4u7RgotgetsVJ1r5Hqi2k4C6WX6EsdHwhOXlSopTb+urx8wP+dg6l9IknQlUcVivAc90SGDHdnLiODIgJN0k8szTivQLGKf8XzSakYZtG5SpsDxt8iip1YSxNTPo5dVM/6wJUTx",
-  "expirydate": "31-12-2099",
-  "Allowoffline": false
-}
+    {
+        "device_id": "Url",
+        "key": "91 Club:https://jaipur91.com/#/login,55 Club:https://ayhbaw55.com/#/login",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "bu",
+        "key": "p1w0LSOYFqy1K4u7RgotgetsVJ1r5Hqi2k4C6WX6EsdHwhOXlSopTb+urx8wP+dg6l9IknQlUcVivAc90SGDHdnLiODIgJN0k8szTivQLGKf8XzSakYZtG5SpsDxt8iip1YSxNTPo5dVM/6wJUTx",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "tab",
+        "key": "everyone|91 Club:https://fqindia.com/#/login,55 Club:https://vfcygo55.com/#/login,In999:https://in999.club/#/login,Jalwa:https://jgdream.com/#/login,Ok Win:https://2okwin6.com/#/login",
+        "expirydate": "31-12-2099",
+        "Allowoffline": false
+    }
 ]
