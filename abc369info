@@ -535,7 +535,7 @@
     },
     {
         "device_id": "Url",
-        "key": "91 Club:https://jaipur91.com/#/login,55 Club:https://ayhbaw55.com/#/login,Lottery7:https://www.lottery7dd.com/#/login,Setting",
+        "key": "91 Club:https://jaipur91.com/#/login,55 Club:https://ayhbaw55.com/#/login,Lottery7:https://www.lottery7dd.com/#/login",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     }
