@@ -518,7 +518,13 @@
 {
         "device_id": "c3eaff6ba9f06bb1",
         "key": "@HunterXSushil#OnTop#c3eaff6ba9f06bb1#341",
-        "expirydate": "21-09-2026",
+        "expirydate": "21-07-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "7d20118d7470dacd",
+        "key": "@HunterXSushil#OnTop#7d20118d7470dacd#342",
+        "expirydate": "26-07-2026",
         "Allowoffline": false
     },
 {
