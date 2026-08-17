@@ -332,7 +332,7 @@
 {
         "device_id": "38d84b1109619288",
         "key": "@HunterXSushil#OnTop#38d84b1109619288#314",
-        "expirydate": "18-08-2026",
+        "expirydate": "23-08-2026",
         "Allowoffline": false
     },
 {
@@ -795,6 +795,12 @@
         "device_id": "Everyone",
         "key": "Hunter Mera Baap Hai 100% Guranteed",
         "expirydate": "15-05-2099",
+        "Allowoffline": false
+    },
+{
+        "device_id": "a74d2ca5fb533b68",
+        "key": "@HunterXSushil#OnTop#a74d2ca5fb533b68#384",
+        "expirydate": "05-09-2026",
         "Allowoffline": false
     },
     {
