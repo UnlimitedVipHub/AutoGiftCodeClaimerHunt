@@ -803,9 +803,15 @@
         "expirydate": "05-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "9e0f5c960ae0a581",
+        "key": "@HunterXSushil#OnTop#9e0f5c960ae0a581#385",
+        "expirydate": "05-09-2026",
+        "Allowoffline": false
+    },
     {
         "device_id": "show activation dialog",
-        "key": "everyone",
+        "key": "none",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
