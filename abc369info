@@ -793,7 +793,7 @@
     },
 {
         "device_id": "Everyone",
-        "key": "Hunter Mera Baap Hai 100% Guranteed",
+        "key": "",
         "expirydate": "15-05-2099",
         "Allowoffline": false
     },
@@ -811,7 +811,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "none",
+        "key": "eveyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
