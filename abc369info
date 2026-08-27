@@ -217,67 +217,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 1",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 2",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 3",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 4",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 5",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 6",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 7",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 8",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 9",
-        "key": "none",
-        "expirydate": "31-12-2099",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "show activation dialog 10",
-        "key": "none",
+        "key": "everone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
