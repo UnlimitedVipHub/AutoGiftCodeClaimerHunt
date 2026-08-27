@@ -217,7 +217,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "everone",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
