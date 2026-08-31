@@ -1,4 +1,10 @@
 [
+{
+        "device_id": "e0593a1c9717d8bb",
+        "key": "e0593a1c9717d8bb#1",
+        "expirydate": "01-10-2026",
+        "Allowoffline": false
+    },
     {
         "device_id": "Everyone",
         "key": "",
@@ -37,19 +43,19 @@
     },
     {
         "device_id": "Show button",
-        "key": "none",
+        "key": "e0593a1c9717d8bb",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
         "device_id": "Common Buttons",
-        "key": "none",
+        "key": "e0593a1c9717d8bb",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
         "device_id": "Sayari",
-        "key": "💰 Money is not everything, but everything needs money. Work hard!",
+        "key": "Key 🗝️ Buy Karne Ke Liye DM Karo Ok 🥳",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
