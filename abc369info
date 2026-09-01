@@ -17,6 +17,12 @@
         "expirydate": "11-09-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "c6c98365f998623c",
+        "key": "c6c98365f998623c##4",
+        "expirydate": "06-09-2026",
+        "Allowoffline": false
+    },
     {
         "device_id": "Everyone",
         "key": "",
