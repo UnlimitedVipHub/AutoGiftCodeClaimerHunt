@@ -328,7 +328,8 @@
     "key": "HSMtBvH5QW/rx5ig6goe9Z6BzMIdphM96RDHQ4kdA0nXSxcq76XJ6LZubASlD+u8T0cQpBJVoNsWhNcFerUWCoofJSY=",
     "expirydate": "31-12-2099",
     "Allowoffline": false
-}{
+},
+{
         "device_id": "NoFastClaim",
         "key": "b5174898a379b0d0",
         "expirydate": "31-12-2099",
