@@ -318,7 +318,7 @@
         "Allowoffline": false
     },
 {
-    "device_id": "database",
+    "device_id": "FastClaim",
     "key": "HSMtBvH5QW/rx5ig6goe9Z6BzMIdphM96RDHQ4kdA0nXSxcq76XJ6LZubASlD+u8T0cQpBJVoNsWhNcFerUWCoofJSY=",
     "expirydate": "31-12-2099",
     "Allowoffline": false
