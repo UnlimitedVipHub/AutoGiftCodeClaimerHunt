@@ -408,7 +408,7 @@
         "Allowoffline": false
     },
     {
-        "device_id": "AllowDevice",
+        "device_id": "allowDevice",
         "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
