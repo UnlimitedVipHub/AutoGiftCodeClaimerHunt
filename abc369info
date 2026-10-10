@@ -353,6 +353,12 @@
         "expirydate": "12-10-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "a706b0ce3b7f94fd",
+        "key": "a706b0ce3b7f94fd#78",
+        "expirydate": "15-10-2026",
+        "Allowoffline": false
+    },
     {
         "device_id": "Everyone",
         "key": "",
