@@ -348,6 +348,12 @@
         "Allowoffline": false
     },
 {
+        "device_id": "231e50accffbd7bc",
+        "key": "231e50accffbd7bc",
+        "expirydate": "09-10-2099",
+        "Allowoffline": false
+    },
+{
         "device_id": "d556595e6ecdf783",
         "key": "d556595e6ecdf783#77",
         "expirydate": "12-10-2026",
@@ -367,7 +373,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "none",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
