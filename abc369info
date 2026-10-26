@@ -175,7 +175,7 @@
     },
     {
         "device_id": "show activation dialog",
-        "key": "everyone",
+        "key": "none",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
@@ -205,13 +205,13 @@
     },
     {
         "device_id": "Show button",
-        "key": "b5174898a379b0d0,e0593a1c9717d8bb,51e3549857c98562,742ee56aae0eb092,c3eaff6ba9f06bb1,178461fa8f7569bd,a74d2ca5fb533b68,e616f97dc8e57244,0eb229c086e7c9bc,bb15d8dec8333b8d,5753f96ea5e1a7d1,7b15852d48ce686b,beda6ebf3cdb74ad,231e50accffbd7bc,c639b299245fdea0,00108ed9b8696b6c",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
     {
         "device_id": "Common Buttons",
-        "key": "b5174898a379b0d0,e0593a1c9717d8bb,51e3549857c98562,742ee56aae0eb092,c3eaff6ba9f06bb1,178461fa8f7569bd,a74d2ca5fb533b68,e616f97dc8e57244,0eb229c086e7c9bc,bb15d8dec8333b8d,5753f96ea5e1a7d1,7b15852d48ce686b,beda6ebf3cdb74ad,231e50accffbd7bc,c639b299245fdea0,00108ed9b8696b6c",
+        "key": "everyone",
         "expirydate": "31-12-2099",
         "Allowoffline": false
     },
